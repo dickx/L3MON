@@ -2,7 +2,7 @@
 </p>
 <p> We as <a href="https://t.me/deVL33014">DeVL3</a> are pleased to unveil L3MON, an improved iteration of our tool. Kindly peruse the following sections to acquaint yourself with the tool's functionalities and capabilities. L3MON RAT, as modified by l3mon2024, stands as one of the most potent Remote Access Trojans (RATs) equipped with a sophisticated web-based control panel. </p>
 
-# <a href="https://t.me/deVL33014">L3MON UPDATE:</a>
+# <a href="https://t.me/deVL33014">L3MON UPDATE</a>:
 - Real-time SCREEN Viewer
 - SCREENSHOT Capture
 - File upload and download Capabilities
@@ -12,7 +12,7 @@
 - No requirement for PORT FORWARDING (FREE VPS LOGIN PANEL)
 - screen unlock (soon)
 
-# <a href="https://t.me/deVL33014">L3MON FREE UPDATE:</a>:
+# <a href="https://t.me/deVL33014">L3MON FREE UPDATE</a>:
 - GPS Logging
 - Microphone Recording
 - Viewing Contacts
