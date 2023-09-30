@@ -1,9 +1,6 @@
-# Deleted by owner it may not work, Get Updates on <a href="https://t.me/deVL33014">deVL3</a>.
-<p align="center">
-<img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud-based remote Android management suite, powered by NodeJS 
 </p>
-<p> We as <a href="https://t.me/deVL33014">deVL3</a> are pleased to unveil L3MON, an improved iteration of our tool. Kindly peruse the following sections to acquaint yourself with the tool's functionalities and capabilities. L3MON RAT, as modified by l3mon2024, stands as one of the most potent Remote Access Trojans (RATs) equipped with a sophisticated web-based control panel. </p>
+<p> We as <a href="https://t.me/deVL33014">DeVL3</a> are pleased to unveil L3MON, an improved iteration of our tool. Kindly peruse the following sections to acquaint yourself with the tool's functionalities and capabilities. L3MON RAT, as modified by l3mon2024, stands as one of the most potent Remote Access Trojans (RATs) equipped with a sophisticated web-based control panel. </p>
 
 ## L3MON the premium version offers the following advanced functionalities:
 - Real-time SCREEN Viewer
@@ -113,16 +110,6 @@ Please have a look through the current issues, open and closed to see if your is
 - By using L3MON, you acknowledge that you have read and understood these terms and conditions and agree to abide by them. Any misuse or violation of these terms may result in legal consequences.
 
 - L3MON is a powerful tool that should be used responsibly and ethically. Failure to do so may result in legal action and damage to your reputation.
-
-
-
-## Screenshots
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<a href="#"> <img width="1604" src="#"> Call Log</a> | <a href="#"> <img width="1604" src="#"> APK Builder</a> |<a href="#"> <img width="1604" src="#.png"> <img width="1604" src="#"> Contacts</a>  |  <a href="#"> <img width="1604" src="#"> Devices</a>|<a href="#"> <img width="1604" src="#"> File Explorer</a>||
-<a href="#"> <img width="1604" src="#"> GPS Log</a>  | <a href="#"> <img width="1604" src="#"> SMS Log</a> |<a href="#"> <img width="1604" src="#"> Send SMS</a>||
-<a href="#"> <img width="1604" src="#"> Installed Apps</a> | <a href="#"> <img width="1604" src="#"> Microphone</a> |<a href="#"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/notification_log.png"> Notifications</a>||
-<a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/event_log.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/event_log.png"> Event Log</a> | <a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/login.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/login.png"> Login</a> |<a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/wifi_manager.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/wifi_manager.png"> WiFi Manager</a>|
 
 ## Thanks
 L3MON Builds off and utilizes several opensource software, Without these, L3MON Wouldn't be what it is!
